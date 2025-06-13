@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Alba Puig
 
-<!--
-**albapuig/albapuig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Science and Computational Mathematics** student from **Catalonia**, passionate about using **machine learning** and **AI** to solve real-world problems and make a positive impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently**  
+I'm completing my degree at **Universitat Autònoma de Barcelona**, where I’ve focused on:
+- Data analysis with Python and R  
+- Machine learning and deep learning  
+- Computer vision and image processing  
+- Statistical modeling and dashboards
+
+🔬 **Experience**  
+I’m gaining hands-on experience in the pharmaceutical industry at **HIPRA**, where I apply data science and AI tools to research and development projects involving images, health data, and real-time monitoring tools.
+
+👯 I’m eager to collaborate on projects that push the boundaries of machine learning and data science.
+
+📫 **Get in touch**  
+📧 alba.puig.font@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/alba-puig-font)
+  
+🚴‍♀️ **Fun fact:** Outside of data, I'm a cyclist who loves exploring the world on two wheels!
+
+---
+
+> 📂 Browse my repositories to see what I’m working on.  
+> Feel free to reach out if you’re interested in collaborating!
